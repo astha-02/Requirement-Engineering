@@ -1,0 +1,11 @@
+Requirement,Ranking
+The system shall enable user to navigate between the search results.,1
+The system shall notify the user when no matching product is found on the search.,1
+The system shall display all the available components of the product to configure,2
+The system shall display all the products that can be configured.,2
+The system shall display the reviews ratings of each product  when it is selected.,2
+The systems back-end servers shall only be accessible to authenticated administrators.,6
+The system shall display only 10 matching result on the current screen.,7
+The system shall display the most frequently searched items by the user in the profile.,7
+The system shall allow user to enter the customer and product information for the support.,9
+The system shall allow user to view detailed sitemap.,9
